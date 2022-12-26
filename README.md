@@ -1,2 +1,2 @@
 # JAVA_configuration
-archivos configuracion proyecto en JAVA
+archivos configuracion para proyectos en JAVA
