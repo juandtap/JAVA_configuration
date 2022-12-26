@@ -1,0 +1,17 @@
+   <repositories>
+    <repository>
+      <id>netbeans</id>
+      <name>Netbeans rep</name>
+      <url>http://bits.netbeans.org/maven2/</url>
+    </repository>
+    </repositories>
+    
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/org.netbeans.external/AbsoluteLayout -->
+    <dependency>
+        <groupId>org.netbeans.external</groupId>
+        <artifactId>AbsoluteLayout</artifactId>
+        <version>RELEASE160</version>
+    </dependency>
+        
+    </dependencies>
